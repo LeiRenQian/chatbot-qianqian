@@ -1,0 +1,15 @@
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\ProjectInfo.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\IQianApi.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\aggregates\UnAnsweredQuestionsAggregates.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\req\AnswerReq.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\req\ReqData.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\res\AnswerRes.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\res\Resp_data.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Group.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Owner.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Root.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Show_comments.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Talk.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\Topics.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\model\vo\User_specific.java
+D:\code\ideaProjects\experiment\chatbot-qianqian\chatbot-domain\src\main\java\com\csust\qian\service\QianApi.java
